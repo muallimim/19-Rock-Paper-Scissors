@@ -42,3 +42,9 @@ button:hover{
     color: white;
     border: 1px solid white;
 }
+
+#result{
+    color: white;
+    font-size: 24px;
+}
+
